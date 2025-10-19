@@ -8,9 +8,9 @@
     "version": "next",
     "name": "BIM Reality Reporter",
     "iconUrl": "https://bim-reality-reporter.xyz/icon.png",
-    "homeUrl": "https://bim-reality-reporter.xyz",
+    "homeUrl": "https://app-77010958-0lyv.vercel.app",
     "splashImageUrl": "https://bim-reality-reporter.xyz/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://bim-reality-reporter.xyz/api/farcaster/webhook"
+    "webhookUrl": "https://app-77010958-0lyv.vercel.app/api/webhook"
   }
 }
